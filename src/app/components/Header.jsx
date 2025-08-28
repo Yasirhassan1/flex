@@ -7,8 +7,9 @@ export default function Header(){
             <Link href={"/"}>Home</Link>
             <Link href={"/"}>About</Link>
             <Link href={"/"}>Contact</Link>
+            <Link href={"/"}>Contact</Link>
           </div>
-          <button className="bg-amber-300 px-4 py-2 rounded-full">Sign Up</button>
+          <button className="bg-red-400 px-4 py-2 rounded-full">Sign Up</button>
         </header>
     )
 }
